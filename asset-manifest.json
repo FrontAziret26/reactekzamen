@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactekzamen/static/css/main.e6c13ad2.css",
+    "main.js": "/reactekzamen/static/js/main.f8f69cad.js",
+    "index.html": "/reactekzamen/index.html",
+    "main.e6c13ad2.css.map": "/reactekzamen/static/css/main.e6c13ad2.css.map",
+    "main.f8f69cad.js.map": "/reactekzamen/static/js/main.f8f69cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f8f69cad.js"
+  ]
+}
